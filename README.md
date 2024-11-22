@@ -12,7 +12,7 @@ This project uses a machine learning model to predict whether a tumor is maligna
 
 - `breast_cancer_app.py`: The main Streamlit app for user input and model prediction.
 - `ANN_model.ipynb`: Jupyter notebook that covers data cleaning, preprocessing, feature selection, model building, and evaluation.
-- `model.joblib`: The trained ANN model.
+- `ann_model.joblib`: The trained ANN model.
 - `scaler.joblib`: The scaler used to standardize the input features.
 
 ## How to Run Locally
